@@ -26,3 +26,8 @@
     line-height: 150%;
     letter-spacing: 0.5px;
 }
+
+.card{
+    border: none;
+    margin-bottom: 80px;
+}
