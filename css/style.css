@@ -32,6 +32,8 @@
     margin-bottom: 50px;
 }
 .btn-get{
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 600;
     background-color: #EE6F4B;
     color: white;
     padding-left: 60px;
@@ -60,4 +62,58 @@
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.5px;
+}
+
+.key-points{
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    padding-top: 20px;
+}
+
+.first-point{
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+}
+
+.header-point{
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 150%;
+    letter-spacing: 0.25px;
+    color: #EE6F4B;
+    padding-right: 10px;
+}
+
+.dogs-eating{
+    border-radius: 10px;
+    width: 570px;
+    height: 480px;
+}
+
+.improve{
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 120%;
+    letter-spacing: 0.25px;
+}
+
+.improve-point{
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    padding-top: 10px;
+}
+
+.closing-section{
+    padding-bottom: 50px;
 }
