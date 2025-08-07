@@ -7,8 +7,8 @@
     line-height: 120%;
     letter-spacing: 0.25px;
     color: #161723;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 50px;
+    padding-bottom: 40px;
 }
 
 .fea-text{
@@ -29,15 +29,15 @@
 
 .card{
     border: none;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 .btn-get{
     font-family: "Inter Tight", sans-serif;
     font-weight: 600;
     background-color: #EE6F4B;
     color: white;
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
     padding-top: 12px;
     padding-bottom: 12px;
     border-radius: 6px;
@@ -91,12 +91,6 @@
     padding-right: 10px;
 }
 
-.dogs-eating{
-    border-radius: 10px;
-    width: 570px;
-    height: 480px;
-}
-
 .improve{
     font-family: "Inter Tight", sans-serif;
     font-weight: 600;
@@ -121,4 +115,5 @@
 .img-food{
     width: 60px;
     height: 60px;
+    margin-right: 10px;
 }
